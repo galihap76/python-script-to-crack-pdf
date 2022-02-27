@@ -15,7 +15,8 @@ python3 main.py -c example.pdf
 # Example Crack PDF
 ```
 C:\Users\galihap\Documents\crack pdf>main.py -c tes.pdf
-Crack PDF:   5%|███▌                                                              | 268/5001 [03:36<1:05:47,  1.20it/s] [+] Password found : doakanguelulus
+Crack PDF:   5%|███▌                                                              | 268/5001 [03:36<1:05:47,  1.20it/s] 
+[+] Password found : doakanguelulus
 ```
 
 # Library
