@@ -1,9 +1,9 @@
-# Small Script Python To Crack PDF
-I build small script python to crack PDF use method brute force i know this method not recommend because this method need a wordlist and take long time. I use a library pikepdf and programming language python.
+# Small Python Script To Crack PDF
+I build small python script to crack PDF use method brute force i know this method not recommend because this method need a wordlist and take long time. I use a library pikepdf and programming language python.
 
 # Install
 ```
-git clone https://github.com/galihap76/small-script-python-to-crack-pdf.git
+git clone https://github.com/galihap76/python-script-to-crack-pdf.git
 ```
 If you want use this script just git clone.
 
