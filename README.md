@@ -4,8 +4,9 @@ I build small python script to crack PDF use method brute force i know this meth
 # Install
 ```
 git clone https://github.com/galihap76/python-script-to-crack-pdf.git
+cd python-script-to-crack-pdf
+pip install -r requirements.txt
 ```
-If you want use this script just git clone.
 
 # Usage
 ```
